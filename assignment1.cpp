@@ -29,4 +29,6 @@ int main(void)
 	//N개의 숫자의 평균 값 출력 함수로 구현
 	makeArray();
 	return 0;
+
+	//깃허브 바뀌는지 테스트
 }
