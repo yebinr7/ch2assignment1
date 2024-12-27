@@ -1,6 +1,7 @@
+
 #include <iostream>
 using namespace::std;
-
+//ESSENTIAL ASSIGNMENT
 void makeArray()
 {
 	int N = 0;
@@ -24,11 +25,12 @@ void makeArray()
 
 int main(void)
 {	
+	
 	//사용자로부터 N개의 숫자 입력 받는다.(동적배열) 
 
 	//N개의 숫자의 평균 값 출력 함수로 구현
 	makeArray();
 	return 0;
 
-	//깃허브 바뀌는지 테스트
+	
 }
